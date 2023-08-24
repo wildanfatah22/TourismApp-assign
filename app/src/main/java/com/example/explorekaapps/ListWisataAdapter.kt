@@ -1,0 +1,47 @@
+package com.example.explorekaapps
+
+import android.content.Intent
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
+
+class ListWisataAdapter(private val listWisata: ArrayList<Wisata>) : RecyclerView.Adapter<ListWisataAdapter.ListViewHolder>() {
+    class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+        val imgPhoto: ImageView = itemView.findViewById(R.id.img_item_photo)
+        val tvName: TextView = itemView.findViewById(R.id.tv_item_name)
+    }
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
+        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.card_wisata, parent, false)
+        return ListViewHolder(view)
+    }
+
+    override fun getItemCount(): Int = listWisata.size
+
+
+    override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
+        val (name, photo) = listWisata[position]
+        holder.imgPhoto.setImageResource(photo)
+        holder.tvName.text = name
+
+        holder.itemView.setOnClickListener {
+            val context = holder.itemView.context
+            val intent = Intent(context, DetailWisata::class.java).apply {
+                putExtra("name", name)
+                putExtra("photo", photo)
+                putExtra(
+                    "location",
+                    context.resources.getStringArray(R.array.data_location)[position]
+                )
+                putExtra(
+                    "description",
+                    context.resources.getStringArray(R.array.data_description)[position]
+                )
+            }
+            context.startActivity(intent)
+        }
+    }
+}

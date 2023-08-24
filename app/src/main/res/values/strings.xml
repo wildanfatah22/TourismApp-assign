@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ExplorekaApps</string>
+    <string name="tourism_name">Nama Wisata</string>
+    <string name="tourism_location">Lokasi</string>
+    <string name="tourism_description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Masjid Muhammad Cheng Hoo</item>
+        <item>Curug Aseupan</item>
+        <item>Curug Malela</item>
+        <item>Kampung Korea Bandung</item>
+        <item>Lawangwangi Creative Space</item>
+        <item>Mangrove Wonorejo Rungkut</item>
+        <item>Monumen Nasional</item>
+        <item>Museum Konferensi Asia Afrika</item>
+        <item>Sunrise Point Cukul</item>
+        <item>Monumen Tugu Pahlawan</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Surabaya</item>
+        <item>Kab. Bandung</item>
+        <item>Kab. Bandung</item>
+        <item>Kota Bandung</item>
+        <item>Kab. Bandung</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+        <item>Kota Bandung</item>
+        <item>Kab. Bandung</item>
+        <item>Surabaya</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Masjid Cheng Ho, atau juga dikenal dengan nama Masjid Muhammad Cheng Ho Surabaya, ialah bangunan masjid yang menyerupai kelenteng (rumah ibadah umat Tri Dharma). Gedung ini terletak di areal komplek gedung serba guna PITI (Pembina Imam Tauhid Islam) Jawa Timur Jalan Gading No.2 (Belakang Taman Makam Pahlawan Kusuma Bangsa), Surabaya. Masjid ini didominasi warna merah, hijau, dan kuning. Ornamennya kental nuansa Tiongkok lama. Pintu masuknya menyerupai bentuk pagoda, terdapat juga relief naga dan patung singa dari lilin dengan lafaz Allah dalam huruf Arab di puncak pagoda. Di sisi kiri bangunan terdapat sebuah beduk sebagai pelengkap bangunan masjid.Selain Surabaya di Palembang juga telah ada masjid serupa dengan nama Masjid Cheng Ho Palembang atau Masjid Al Islam Muhammad Cheng Hoo Sriwijaya Palembang. Nama masjid ini merupakan bentuk penghormatan pada Cheng Ho, Laksamana asal Cina yang beragama Islam. Dalam perjalanannya di kawasan Asia Tenggara, Cheng Ho bukan hanya berdagang dan menjalin persahabatan, juga menyebarkan agama Islam.</item>
+        <item>Curug Aseupan berada di kawasan Curug Tilu Leuwi Opat. Curug ini merupakan bintang utama dari beberapa curug di sini. Jika diceritakan, kecantikannya bisa lah buat mengisi galeri dan feed instagram. Curug ini sendiri berada di Dusun Ciwangan, Kelurahan Cihanjuang rahayu, kecamatan Parangpong, Kabupaten Bandung Barat. Sekitar 9 KM dari Lembang yang jarangnya cukup berdekatan dengan Curug Cimahi. Bukan hanya menyajikan pemandangan air terjun, di sekitar curug juga terdapat area camping ground yang cukup luas.</item>
+        <item>Curug Malela adalah salah satu destinasi alam yang berupa air terjun. Curug ini memilliki keindahan yang luar biasa. Jadi tak heran banyak para pengunjung yang datang untuk mengunjungi curug ini. Para pengunjung yang datang tidak hanya dari dalam kota saja, namun juga dari luar kota seperti DKI jakarta, Jawa Tengah, Jawa Barat dan masih banyak lagi. Curug ini memiliki ketinggian yang cukup tinggi yaitu sekitar 60 sampai 70 meter.</item>
+        <item>Kampung Korea adalah sebuah kawasan di kota Bandung yang dibangun semirip mungkin dengan karakter kota Seoul di Korea Selatan. Tujuan pengembangan kawasan ini adalah sebagai bagian dari kegiatan sister city antara Bandung dengan Seol. Pembangunan dimulai pada tahun 2017 atas inisiatif Ridwan Kamil selaku wali kota Bandung saat itu.</item>
+        <item>Lawangwangi merupakan sebuah galeri seni dengan konsep retro modern. Mememadukan keindahan alam dan cita rasa kuliner. Hmm, bikin penasaran ya Teman Traveler. Lawangwangi Creative Space sebelumnya hanya sekedar menyediakan Lab Math dan Art Space bagi para pecinta dan penikmat seni. Pengunjung bisa menemukan sebuah ruangan khusus untuk memamerkan kreasi dari beragam seniman. Karya yang ditampilkan berbeda-beda tiap bulan. Namun galeri seni yang mulanya diprediksi dapat menarik banyak pengunjung, rupanya justru kurang diminati. Akhirnya dengan memadukan keindahan alam sekitar bangunan, dibangunlah sebuah kafe modern dengan nuansa seni.</item>
+        <item>Wonorejo Ekowisata Mangrove ini memiliki daya tarik dari keasrian alamnya. Pada awalnya, kawasan konservasi alam ini dibuat untuk mencegah abrasi di wilayah Timur Kota Surabaya. Pengelolaan yang baik membuat pemerintah Kota Surabaya membuka lokasi ini untuk umum.</item>
+        <item>Monumen Nasional atau yang disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter (433 kaki) yang terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat. Monas didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia dalam merebut kemerdekaan dari pemerintahan kolonial Kekaisaran Belanda.</item>
+        <item>Museum Konferensi Asia Afrika merupakan salah satu museum yang berada di kota Bandung yang terletak di Jalan Asia Afrika No. 65. Museum ini merupakan memorabilia Konferensi Asia Afrika. Museum ini memiliki hubungan yang sangat erat dengan Gedung Merdeka. Secara keseluruhan Gedung Merdeka memiliki dua bangunan utama, yang pertama disebut Gedung Merdeka sebagai tempat sidang utama, sedangkan yang berada di samping Gedung Merdeka adalah Museum Konferensi Asia Afrika sebagai tempat memorabilia Konferensi Asia Afrika. Latar belakang dibangunnya museum ini adalah adanya keinginan dari para pemimpin bangsa-bangsa di Asia dan Afrika untuk mengetahui tentang Gedung Merdeka dan sekitarnya tempat Konferensi Asia Afrika berlangsung. Hal ini membuat Menteri Luar Negeri Republik Indonesia, Prof. Dr. Mochtar Kusumaatmadja, S.H., LL.M memiliki ide untuk membangun sebuah museum. Ide tersebut disampaikannya pada forum rapat Panitia Peringatan 25 tahun Konferensi Asia Afrika (1980) yang dihadiri oleh Direktur Jenderal Kebudayaan Prof. Dr. Haryati Soebadio sebagai wakil dari Departemen Pendidikan dan Kebudayaan. Kemudian museum ini diresmikan pada tanggal 24 April 1980 bertepatan dengan peringatan 25 tahun Konferensi Asia Afrika.</item>
+        <item>Sunrise Point Cukul merupakan salah satu tempat wisata populer bagi wisatawan untuk melihat matahari terbit di kawasan Bandung Selatan. Mereka bisa melihat sunrise dari ketinggian 1.600 meter di atas permukaan laut. Sunrise Point Cukul merupakan salah satu tempat wisata populer bagi wisatawan untuk melihat matahari terbit di kawasan Bandung Selatan. Mereka bisa melihat sunrise dari ketinggian 1.600 meter di atas permukaan laut.</item>
+        <item>Tugu Pahlawan (bahasa Indonesia: Tugu Pahlawan) adalah sebuah monumen di Surabaya, Indonesia. Itu adalah lambang utama kota yang didedikasikan untuk orang-orang yang tewas dalam Pertempuran Surabaya pada 10 November 1945. Museum 10 November terletak di bawah monumen. Monumen ini memiliki tinggi 41,15 meter dan berbentuk lingga. Dibangun untuk memperingati peristiwa 10 November 1945 di Pertempuran Surabaya. Itu adalah tempat setiap 10 November untuk memperingati peristiwa 1945, ketika banyak pahlawan tewas dalam perang kemerdekaan.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/chengho</item>
+        <item>@drawable/curugaseupan</item>
+        <item>@drawable/curugmalela</item>
+        <item>@drawable/kampungkoreabandung</item>
+        <item>@drawable/lawangwangi</item>
+        <item>@drawable/mangrovesby</item>
+        <item>@drawable/monas</item>
+        <item>@drawable/museumkaa</item>
+        <item>@drawable/sunriespointcukul</item>
+        <item>@drawable/tp</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_name">Wildan Fatahillah Akbar</string>
+    <string name="my_email">awildanfatahillah@gmail.com</string>
+</resources>
